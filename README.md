@@ -60,24 +60,29 @@ I'm a Computer Engineering student and Software Developer with practical experie
 
 ---
 
-## 🚀 Featured Projects
 
-### AXION
-Business Intelligence & Analytics Platform
+## 🚀 Selected Projects
 
-A web platform focused on business intelligence and data-driven solutions.
+### AXION — Business Intelligence Platform
+A modern BI platform focused on business analytics and data-driven solutions.
 
-### ZeroTrace
-Telegram Automation & Management System
+**Focus:** Next.js · React · TypeScript · PostgreSQL
 
-A Telegram-based service management platform with bot automation and administrative tools.
+### ZeroTrace — Telegram Automation Platform
+A Telegram-based service management system with automated workflows, user management, and an administrative dashboard.
 
-### AzakStyle
-Fashion Portfolio & Appointment Platform
+**Focus:** Python · PostgreSQL · Telegram Bot API
 
-A web platform designed for showcasing fashion work and managing appointments.
+### AzakStyle — Fashion & Appointment Platform
+A web platform designed for showcasing fashion portfolios and managing customer appointments.
+
+**Focus:** Next.js · React · Web Development
 
 ---
+
+*Source code for selected projects is private. Technical
+details and demonstrations can be shared upon request.*
+
 
 ## 📊 GitHub Statistics
 
